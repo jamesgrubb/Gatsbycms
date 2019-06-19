@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce7fa590-d6cc-438f-b711-7b34ddffea0a/deploy-status)](https://app.netlify.com/sites/admiring-bose-8807f8/deploys)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
